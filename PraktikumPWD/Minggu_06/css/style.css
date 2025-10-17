@@ -11,6 +11,10 @@ body {
     padding: 50px 20px;
 }
 
+<<<<<<< Updated upstream
+=======
+/* ====== Container Form ====== */
+>>>>>>> Stashed changes
 form {
     background-color: rgba(255, 255, 255, 0.95);
     padding: 30px 35px;
@@ -26,6 +30,10 @@ form:hover {
     transform: translateY(-4px);
 }
 
+<<<<<<< Updated upstream
+=======
+/* ====== Title ====== */
+>>>>>>> Stashed changes
 h1 {
     text-align: center;
     font-size: 28px;
@@ -34,6 +42,10 @@ h1 {
     letter-spacing: 1px;
 }
 
+<<<<<<< Updated upstream
+=======
+/* ====== Fieldset & Legend ====== */
+>>>>>>> Stashed changes
 fieldset {
     border: 2px solid #b39ddb;
     border-radius: 12px;
@@ -48,6 +60,10 @@ legend {
     padding: 0 10px;
 }
 
+<<<<<<< Updated upstream
+=======
+/* ====== List Style ====== */
+>>>>>>> Stashed changes
 ol {
     list-style: none;
     padding: 0;
@@ -60,6 +76,10 @@ li {
     color: #444;
 }
 
+<<<<<<< Updated upstream
+=======
+/* ====== Input & Select ====== */
+>>>>>>> Stashed changes
 input[type="text"],
 select {
     width: 100%;
@@ -80,11 +100,19 @@ select:focus {
     box-shadow: 0 0 6px rgba(66, 165, 245, 0.6);
 }
 
+<<<<<<< Updated upstream
+=======
+/* ====== Radio Button ====== */
+>>>>>>> Stashed changes
 input[type="radio"] {
     margin-right: 6px;
     accent-color: #ff7043;
 }
 
+<<<<<<< Updated upstream
+=======
+/* ====== Submit Button ====== */
+>>>>>>> Stashed changes
 input[type="submit"] {
     background: linear-gradient(to right, #42a5f5, #7e57c2);
     color: white;
@@ -104,6 +132,10 @@ input[type="submit"]:hover {
     transform: scale(1.02);
 }
 
+<<<<<<< Updated upstream
+=======
+/* ====== Extra: Animasi dan Warna Warni ====== */
+>>>>>>> Stashed changes
 fieldset:nth-of-type(1) {
     border-color: #42a5f5;
     background: linear-gradient(135deg, #e3f2fd, #bbdefb);
